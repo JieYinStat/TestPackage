@@ -6,6 +6,8 @@
 <!-- badges: start -->
 
 [![R-CMD-check](https://github.com/JieYinStat/TestPackage/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/JieYinStat/TestPackage/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/JieYinStat/TestPackage/branch/master/graph/badge.svg)](https://app.codecov.io/gh/JieYinStat/TestPackage?branch=master)
 <!-- badges: end -->
 
 The goal of TestPackage is to …
